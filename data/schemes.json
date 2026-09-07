@@ -1,0 +1,131 @@
+[
+    {
+        "id": "scheme_001",
+        "name": "PM-KISAN Samman Nidhi",
+        "description": "Income support scheme for eligible landholding farmer families.",
+        "occupation": "farmer",
+        "education": null,
+        "income_level": null,
+        "min_age": null,
+        "max_age": null,
+        "documents": [
+            "Aadhaar or accepted identity document",
+            "Land ownership / land record details",
+            "Bank account details",
+            "Mobile number"
+        ],
+        "steps": [
+            "Check your eligibility on the official PM-KISAN portal.",
+            "Complete farmer registration if required.",
+            "Complete the required eKYC process.",
+            "Check your beneficiary and payment status."
+        ],
+        "official_source": "https://pmkisan.gov.in/",
+        "verification_note": "Final eligibility depends on landholding status and scheme exclusion criteria."
+    },
+    {
+        "id": "scheme_002",
+        "name": "PM-USP Central Sector Scheme of Scholarship for College and University Students",
+        "description": "Merit-cum-means scholarship for eligible students pursuing higher education.",
+        "occupation": "student",
+        "education": "undergraduate",
+        "income_level": "low",
+        "min_age": null,
+        "max_age": null,
+        "documents": [
+            "Aadhaar or accepted identity document",
+            "Class XII academic records",
+            "Family income certificate",
+            "Bank account details",
+            "College / course details"
+        ],
+        "steps": [
+            "Check the current eligibility criteria on the National Scholarship Portal.",
+            "Complete One Time Registration and application requirements.",
+            "Select the PM-USP Central Sector Scheme when eligible.",
+            "Submit the required academic, income and bank details.",
+            "Track verification and application status on the portal."
+        ],
+        "official_source": "https://scholarships.gov.in/",
+        "verification_note": "Final eligibility also depends on academic merit, regular-course status and other scheme-specific conditions."
+    },
+    {
+        "id": "scheme_003",
+        "name": "PM-USP Central Sector Interest Subsidy Scheme",
+        "description": "Interest subsidy support for eligible students taking education loans for qualifying technical or professional courses.",
+        "occupation": "student",
+        "education": "undergraduate",
+        "income_level": "low",
+        "min_age": null,
+        "max_age": null,
+        "documents": [
+            "Identity document",
+            "Admission proof",
+            "Education loan documents",
+            "Family income certificate",
+            "Bank account details"
+        ],
+        "steps": [
+            "Check whether your course and institution meet the current scheme requirements.",
+            "Check the applicable family-income condition.",
+            "Apply for the qualifying education loan.",
+            "Complete the required subsidy application process.",
+            "Verify the current status through the relevant official portal or institution."
+        ],
+        "official_source": "https://www.education.gov.in/",
+        "verification_note": "The scheme has specific course, institution, loan and income conditions. Verify the current rules before applying."
+    },
+    {
+        "id": "scheme_004",
+        "name": "PM-Vidyalaxmi",
+        "description": "Central sector education-finance support intended to help eligible students pursue higher education through qualifying education loans and interest-subvention support.",
+        "occupation": "student",
+        "education": "undergraduate",
+        "income_level": "low",
+        "min_age": null,
+        "max_age": null,
+        "documents": [
+            "Identity document",
+            "Admission / merit-based admission proof",
+            "Academic documents",
+            "Family income documents where applicable",
+            "Education loan documents"
+        ],
+        "steps": [
+            "Check whether your institution and admission qualify under the current scheme.",
+            "Review the applicable loan and interest-subvention conditions.",
+            "Apply through the designated PM-Vidyalaxmi process.",
+            "Submit the required academic, admission and financial documents.",
+            "Track the loan or interest-subvention status."
+        ],
+        "official_source": "https://www.education.gov.in/",
+        "verification_note": "Eligibility depends on the current list of qualifying institutions and scheme conditions."
+    },
+    {
+        "id": "scheme_005",
+        "name": "PM YASASVI Central Sector Scheme of Top Class Education in College for OBC, EBC and DNT Students",
+        "description": "Higher-education support scheme listed on the National Scholarship Portal for eligible OBC, EBC and DNT students.",
+        "occupation": "student",
+        "education": "undergraduate",
+        "income_level": "low",
+        "min_age": null,
+        "max_age": null,
+        "documents": [
+            "Identity document",
+            "Category certificate",
+            "Income certificate",
+            "Academic documents",
+            "College admission details",
+            "Bank account details"
+        ],
+        "steps": [
+            "Check the current scheme eligibility on the National Scholarship Portal.",
+            "Confirm category, income and educational requirements.",
+            "Complete the required NSP registration/application.",
+            "Upload the required documents.",
+            "Track institute and department verification."
+        ],
+        "official_source": "https://scholarships.gov.in/",
+        "verification_note": "Category, income, institution and other scheme-specific conditions must be verified before applying."
+    }
+]
